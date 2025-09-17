@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **Python ,MySQL**
+- 🌱 I’m currently learning **Node.js,Express.js and MongoDB**
 
 - 💬 Ask me about **Challenges**
 
