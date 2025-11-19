@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm RITU</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritu&label=Profile%20views&color=0e75b6&style=flat" alt="ritu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritu" alt="ritu" /></a> </p>
 
-- 🔭 I’m currently working on **Student Counseling Web Application**
+- 🔭 I’m currently working on **Blogging App**
 
 - 🌱 I’m currently learning **React.js,TailwindCSS,Node.js,Express.js and MongoDB**
 
-- 💬 Ask me about **Challenges**
+- 💬 Ask me about **Features which make this app different from other**
 
 - 📫 How to reach me **ritujoshi706@gmail.com**
 
