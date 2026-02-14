@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritu" alt="ritu" /></a> </p>
 
-- 🔭 I’m currently working on **Blogging App**
+- 🔭 I’m currently working on **Granting App**
 
-- 🌱 I’m currently learning **React.js,TailwindCSS,Node.js,Express.js and MongoDB**
+- 🌱 I’m currently learning **React.js,Expo-React Native,Node.js,Express.js and MongoDB**
 
 - 💬 Ask me about **Features which make this app different from other**
 
